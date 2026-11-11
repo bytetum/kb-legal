@@ -1,3 +1,3 @@
-# calendar-app
+# kb-legal
 
-Homepage, privacy policy and terms for bytetum-calendar, a personal Google Calendar app. Served by GitHub Pages.
+Homepage, privacy policy and terms for the owner's personal kb calendar sync (a Google OAuth client). Served by GitHub Pages.
